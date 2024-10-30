@@ -27,13 +27,13 @@ If you wish to work with the complete dataset, you can download it directly from
 - Python (for data processing and AI)
 - JavaScript/HTML/CSS (for the web interface)
 - SQL/NoSQL (for database management)
-- Libraries: Scikit-Learn, Pandas, Matplotlib, Flask (or Django for web development)
+- Libraries: Scikit-Learn, Pandas, Matplotlib
 
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Ilannnnnnn/urban-tree-analysis.git
    ```
 2. Install the required dependencies:
    ```
@@ -50,6 +50,3 @@ If you wish to work with the complete dataset, you can download it directly from
 
 This project is licensed under the MIT License.
 
----
-
-N'hésite pas à ajuster le texte en fonction des détails spécifiques de ton projet (comme les bibliothèques ou technologies utilisées).
